@@ -1,0 +1,5 @@
+# First Repo
+
+This is my first GitHub repository.
+
+I am learning how to use Git and GitHub.
